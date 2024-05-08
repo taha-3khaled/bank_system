@@ -1,0 +1,9 @@
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/itida_client.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/itida_client_autogen_timestamp_deps.dir
+D:/Embedded/QT/project/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/itida_client_autogen.dir
