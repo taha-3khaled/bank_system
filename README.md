@@ -1,5 +1,6 @@
 # bank_system
 bank_system using the client server model.
+## server
 1. Server Class (server.h, server.cpp):
 * The Server class is derived from DataBase, which suggests that it has access to a database for handling banking-related operations.
 * It listens for incoming connections (start method) and handles new connections in the newConnection slot.
