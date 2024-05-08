@@ -1,0 +1,32 @@
+{
+    "admins": [
+        {
+            "khaled": {
+                "password": "123456"
+            },
+            "taha": {
+                "password": "123456"
+            }
+        }
+    ],
+    "users": [
+        {
+            "safy": {
+                "accountnumber": "1987",
+                "password": "123456"
+            }
+        },
+        {
+            "ahmed": {
+                "accountnumber": "5579",
+                "password": "123456"
+            }
+        },
+        {
+            "tata": {
+                "accountnumber": "7045",
+                "password": "123456"
+            }
+        }
+    ]
+}

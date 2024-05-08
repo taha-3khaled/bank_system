@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-be97127e3382d2a7754a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "itida_server",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "itida_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-itida_server-Debug-59f319d86bd0cd3108bd.json",
+					"name" : "itida_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "itida_server_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-itida_server_autogen-Debug-fbcd8a3a028a1a87d8a6.json",
+					"name" : "itida_server_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "itida_server_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-itida_server_autogen_timestamp_deps-Debug-b54df447401181f72a08.json",
+					"name" : "itida_server_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Embedded/QT/project/build-itida_server-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "D:/Embedded/QT/project/itida_server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

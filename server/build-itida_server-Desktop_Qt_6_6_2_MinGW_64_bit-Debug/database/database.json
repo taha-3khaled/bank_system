@@ -1,0 +1,39 @@
+{
+    "1987": {
+        "Accountnumber": "1987",
+        "Age": "25",
+        "Balance": "422342265",
+        "Fullname": "safy mahmoud",
+        "Transaction History": [
+            {
+                "datetime": "2024-05-08 10:49:53",
+                "details": "+69"
+            },
+            {
+                "datetime": "2024-05-08 00:51:11",
+                "details": "+90"
+            }
+        ],
+        "Username": "safy"
+    },
+    "5579": {
+        "Accountnumber": "5579",
+        "Age": "122",
+        "Balance": "12300",
+        "Fullname": "ahmed ali",
+        "Transaction History": [
+            {
+                "datetime": "2024-05-08 10:51:37",
+                "details": "+34"
+            }
+        ],
+        "Username": "ahmed"
+    },
+    "7045": {
+        "Accountnumber": "7045",
+        "Age": "23",
+        "Balance": "23442",
+        "Fullname": "kmhgkjmhkf",
+        "Username": "tata"
+    }
+}
